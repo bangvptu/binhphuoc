@@ -1,0 +1,7 @@
+{
+  "name": "VinFleet - Quản lý Vận hành & Đặt xe",
+  "description": "Hệ thống quản lý đội xe toàn diện: Điều phối tài xế, tối ưu lịch trình, theo dõi doanh thu và tích hợp AI hỗ trợ ra quyết định.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
